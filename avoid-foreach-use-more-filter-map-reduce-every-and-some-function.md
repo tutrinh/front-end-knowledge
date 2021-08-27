@@ -8,7 +8,9 @@ My best advice from this article, as beginner we use a lot of the forEach functi
 
 ### Filter
 
-As named, it allow us to filter some value in your array depending on your condition
+As named, it allow us to filter some value in your array depending on your condition.
+
+Returns a new array.
 
 ```text
 const toto = [1, 2, 3, 4]
